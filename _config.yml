@@ -1,0 +1,28 @@
+name: Resource Magazine
+favicon: null
+layout_spectrum: 0.43033236963674426
+typography_spectrum: 0.08422629977576435
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4834226609673351
+  lightness: 0.9721085836645216
+  saturation: 0.22099492675624788
+  rhythmicContrast: 0.7719950575847179
+purpose: []
